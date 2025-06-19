@@ -162,3 +162,7 @@ for i in range(0, len(Conjunto_DNIs)):
     elementos_dni = Inter_Conjuntos(Conjunto_DNIs[i],{0, 1, 2, 3, 4, 5, 6, 7, 8, 9})
     if len(elementos_dni) >=5:
         print(f"El DNI {dnis[i]} tiene 5 dígitos. Podemos decir que tiene 'Diversidad numérica alta'")
+
+
+
+
